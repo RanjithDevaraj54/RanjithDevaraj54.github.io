@@ -19,7 +19,7 @@
 
 :o:In the Last level use must press **R-KEY** to restart the game 
 
-:trophy: You can play the game in the https://ranjithdevaraj54.github.io/ which is hosted by me in the github environment :trophy:
+:trophy:You can play the game in the https://ranjithdevaraj54.github.io/ which is hosted by me in the github environment:trophy:
 
 :bangbang: And comment the things you experienced both :heavy_plus_sign: and :heavy_minus_sign: comments are always welcome :bangbang:
 
