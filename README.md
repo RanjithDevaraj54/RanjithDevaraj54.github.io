@@ -13,7 +13,7 @@
 
 :o: For level :one: and :two: use **W-A-D keys** to move cube in front,left and right direction
 
-:o: For the level :three: the game is designed in a 2-D Format where you can use** **SPACE KEY** to jump and avoid obstacles
+:o: For the level :three: the game is designed in a 2-D Format where you can use **SPACE KEY** to jump and avoid obstacles
 
 :o: In first two levels the round will be automatically restarts when you failed 
 
